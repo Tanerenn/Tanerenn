@@ -32,10 +32,11 @@
 
 <p>
   <a href="https://www.linkedin.com/in/taner-eren-71b7a1318/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Tanerenn" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" />
   </a>
 </p>
+
