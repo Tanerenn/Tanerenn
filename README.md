@@ -31,6 +31,11 @@
 ### 🤝 Connect with me
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="https://www.linkedin.com/in/taner-eren-71b7a1318/">LinkedIn</a> •
-  <a href="https://github.com/Tanerenn">GitHub</a>
+  <a href="https://www.linkedin.com/in/taner-eren-71b7a1318/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/48/174/174857.png" alt="LinkedIn" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Tanerenn" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/48/25/25231.png" alt="GitHub" width="30" height="30" />
+  </a>
 </p>
