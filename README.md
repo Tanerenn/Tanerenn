@@ -30,13 +30,13 @@
 
 ### 🤝 Connect with me
 
-<p>
-  <a href="https://www.linkedin.com/in/taner-eren-71b7a1318/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+<p align="left">
+  <a href="https://github.com/Tanerenn" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Tanerenn" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/taner-eren/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
 
