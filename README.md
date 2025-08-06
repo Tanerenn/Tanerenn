@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Istanbul</h3>
 
 <p align="center">
-  💻 I love building with <b>Django, React, Spring Boot</b><br>
+  💻 I love building with modern web technologies.
   🔭 I’m working on full-stack projects <br>
 </p>
 
