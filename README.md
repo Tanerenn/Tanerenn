@@ -29,6 +29,18 @@
 
 ---
 
+<div align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tanerenn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tanerenn&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanerenn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
 ### 🤝 Connect with me
 
 <p align="left">
