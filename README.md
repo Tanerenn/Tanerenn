@@ -6,17 +6,6 @@
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42"/>
-
 <h3>🛠 Languages and Tools</h3>
 
 <div align="center">
