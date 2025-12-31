@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Focused;AWS+%7C+Django+%7C+Node.js;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Backend+Developer;Django+%26+AWS;Building+Practical+Systems" />
 </div>
-
-<h1 align="center">Hi 👋, I'm Taner </h1>
-<h3 align="center">A passionate Full-Stack Developer from Istanbul</h3>
+<h2 align="center">Full-Stack Developer</h2>
 
 <p align="center">
   💻 I love building with modern web technologies.
