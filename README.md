@@ -1,12 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Backend+Developer;Django+%26+AWS;Building+Practical+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Full-Stack Developer;Building+Practical+Systems" />
 </div>
 <h2 align="center">Full-Stack Developer</h2>
-
-<p align="center">
-  💻 I love building with modern web technologies.
-  🔭 I’m working on full-stack projects <br>
-</p>
 
 ---
 
